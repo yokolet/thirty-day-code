@@ -1,3 +1,5 @@
+;; https://www.hackerrank.com/challenges/30-review-loop/problem
+
 (ns thirty-days-code.odd-even)
 
 (defn odd-even

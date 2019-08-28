@@ -1,3 +1,5 @@
+;; https://www.hackerrank.com/challenges/30-conditional-statements/problem
+
 (ns thirty-days-code.weird)
 
 (defn weird?
