@@ -19,4 +19,3 @@
 (defn factorial [n]
   (reduce * 1 (range n 0 -1)))
 
-
